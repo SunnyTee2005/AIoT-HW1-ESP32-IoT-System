@@ -5,8 +5,8 @@
 // ─────────────────────────────────────────
 // WiFi 設定
 // ─────────────────────────────────────────
-const char ssid[]     = "YOUR_WIFI_SSID";
-const char password[] = "YOUR_WIFI_PASSWORD";
+const char ssid[]     = "wifi_name";
+const char password[] = "password";
 
 // ─────────────────────────────────────────
 // Flask 伺服器位址
